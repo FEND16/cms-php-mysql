@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.rawgit.com/FEND16/cms-php-mysql/e0bd4ee5/cmsphpmysql.svg" alt="CMS, PHP & MySQL" width="auto" height="300"></p>
+<p align="center"><img src="http://i.imgur.com/eXuVuPO.png" alt="CMS, PHP & MySQL" width="auto" height="300"></p>
 
 ## Kursens innehåll :book:
 
@@ -160,8 +160,6 @@ __v.15__
 
 * [__PHP Pandas: motsvarande kapitel__](https://daylerees.com/php-pandas/)
 * [__PHP.NET__: Documentation](http://php.net/)
-
-
 
 ---
 __v.16__
