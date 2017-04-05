@@ -88,9 +88,15 @@ __v.14__
 * CMS
     - Wordpress
     - Drupal
-    - Joomla
 * Utforska MAMP/XAMP-stacken
 * Utforska Wordpress
+    - Sätta upp en enklare sida med Wordpress
+    - Exportera/importera
+    - Themes
+    - Plugins
+    - Redigera css
+
+#### [Assignment: CMS Jämförelse](https://github.com/FEND16/cms-php-mysql/blob/master/assignment_cms.md)
 
 ##### Litteratur
 
@@ -103,13 +109,8 @@ __v.14__
 
 ### Pass 3 - Onsdag 5/4
 
-* Sätta upp en enklare sida med Wordpress
-    - Exportera/importera
-    - Themes
-    - Plugins
-    - Redigera css
-* Wordpress vs. Drupal vs. Joomla
-* Sätta upp en enklare sida Drupal eller Joomla.
+* Wordpress vs. Drupal
+* Sätta upp en enklare sida med Drupal eller Joomla.
 
 ##### Litteratur
 
