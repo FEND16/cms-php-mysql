@@ -129,6 +129,7 @@ __v.15__
     - _Variabler_
     - _Funktioner_
     - _Syntax_
+    - _Arrays_
 
 ##### Litteratur
 
@@ -138,9 +139,9 @@ __v.15__
 ### Pass 5 - Tisdag 11/4
 
 * PHP fortsättning
-    - Arrays
     - Objects
     - Includes
+    - Requires
     - Closures
 
 ##### Litteratur
@@ -152,6 +153,8 @@ __v.15__
 ### Pass 6 - Onsdag 12/4
 
 * PHP fortsättning
+ - Filstruktur
+ - Templates
  - Koppla ihop allting
  - PHPs relation till Wordpress/Drupal/Joomla
  - Bygga en enklare sida med PHP tillsammans
