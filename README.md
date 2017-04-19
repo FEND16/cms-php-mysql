@@ -184,8 +184,9 @@ __v.16__
 ### Pass 8 - Onsdag 19/4
 
 * Objektorienterad PHP
-    - Namespaces
-    - Dependency injection
+    - Abstract classes
+    - Interfaces
+    - Inheritance
     - Best Practice
 
 
@@ -245,26 +246,20 @@ __v.17__
     - Säkerhet
     - Hash/salt
     - Login
-
-##### Litteratur
-
-* [__php.net__: Sanitize filters](http://php.net/manual/en/filter.filters.sanitize.php)
-* [__php.net__: Password Hashing](http://php.net/manual/en/faq.passwords.php)
-
----
-__v.18__
-
-### Pass 13 - Tisdag 2/5
-
 * PDO och sessions
     - $_SESSION
     - Spara login med session
 
 ##### Litteratur
 
+* [__php.net__: Sanitize filters](http://php.net/manual/en/filter.filters.sanitize.php)
+* [__php.net__: Password Hashing](http://php.net/manual/en/faq.passwords.php)
 * [__php.net__: $_SESSION](http://php.net/manual/en/reserved.variables.session.php)
 
-### Pass 14 - Onsdag 3/5
+---
+__v.18__
+
+### Pass 13 - Tisdag 2/5
 
 * PHP i kombination med JavaScript
     - AJAX och PHP
@@ -275,6 +270,12 @@ __v.18__
 
 * [__Beginner’s Guide to Ajax Development with PHP__](http://blog.teamtreehouse.com/beginners-guide-to-ajax-development-with-php)
 * [__jQuery API__: $.ajax()](http://api.jquery.com/jquery.ajax/)
+
+
+### Pass 14 - Onsdag 3/5
+
+* Eget arbete med grupprojektet
+* Handledning: ingen genomgång
 
 ### Pass 15 - Torsdag 4/5
 
@@ -313,6 +314,7 @@ __v.20__
     - Custom functions
 
 ### Pass 20 - Tisdag 16/5
+
 
 * Sätta upp en webbshop med WooCommerce
     - WooCommerce teman
