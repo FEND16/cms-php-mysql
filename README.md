@@ -41,6 +41,10 @@ Se upp med PHP, många av resurserna på nätet är utdaterade (vissa av de här
 
 * [__TutorialsPoint | MySQL__](https://www.tutorialspoint.com/mysql/)
     - Genomgång av de vanligaste kommandona i MySQL
+* [__W3Schools.com | SQL Tutorial__](https://www.w3schools.com/sql/)
+    - Genomgång av de vanligaste kommandona i MySQL
+* [__MySQL Documentation__](https://dev.mysql.com/doc/refman/5.7/en/)
+    - Dokumentationen för MySQL
 
 #### CMS
 
