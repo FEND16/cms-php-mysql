@@ -33,3 +33,20 @@ echo $hathiName;
 
 $hathi->getName(); 
 Elephant::sayStuff();
+
+
+
+?>
+
+
+
+
+
+
+
+
+<?php
+  
+  echo "<h1>I am HTML</h1>";
+
+?>
