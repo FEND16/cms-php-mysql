@@ -36,8 +36,12 @@ Lämnas in via studentportalen enligt följande mönster:
 
 `förnamn_efternamn_wordpress.zip`
 
-**INLÄMNINGEN SKA ENBART INNEHÅLLA DITT TEMA (OCH EVENTUELLA PLUGINS) OCH DIN EXPORTERADE DATABAS**
+**FÖR INLÄMNINGEN SKA DU ANVÄNDA PLUGINET [`All-In-One WP Migration`](https://wordpress.org/plugins/all-in-one-wp-migration) OCH ANVÄND `Export To File`.**
 
-**INLÄMNINGEN SKA ÄVEN INNEHÅLLA EN README SOM BESKRIVER VILKA EVENTUELLA PLUGINS DU ANVÄNT OCH HUR DE SKA ANVÄNDAS**
+**ZIP-FILEN SKA BESTÅ AV FILEN SOM EXPORTERAS AV PLUGINET (`*.wpress`) SAMT EN `.txt`-FIL MED ANVÄNDARNAMN OCH LÖSENORD FÖR ATT LOGGA IN PÅ ER SIDA.**
 
-Inlämningen ska vara i **.zip** samt inte innehålla några __node_modules__.
+**SÅ HÄR SKA DET SE UT I ZIP-FILEN:**
+
+`förnamn_efternamn_wordpress.wpress`
+
+`login.txt`
